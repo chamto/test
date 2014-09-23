@@ -1,8 +1,12 @@
 #include "stdio.h"
 
 int main()
-{  
-    getch("");
+{ 
+    for(int i=0;i<4;i++)
+    {
+       
+        printf("*~");
+    }
 	printf("^^^u^^^^^^^^^^^^^^^^111111\n");
 	printf("********************** \n");
 	printf("hellow world ! \n");
